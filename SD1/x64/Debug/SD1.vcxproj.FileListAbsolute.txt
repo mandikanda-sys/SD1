@@ -1,0 +1,3 @@
+D:\SD1\SD1\x64\Debug\SD1.vcxproj.AssemblyReference.cache
+D:\SD1\SD1\x64\Debug\SD1.MainForm.resources
+D:\SD1\SD1\x64\Debug\SD1.vcxproj.GenerateResource.cache
